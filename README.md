@@ -60,4 +60,4 @@ By purchasing the game on Steam, you are already supporting! If you'd like to fu
 
 
 ## Disclaimer
-This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected to Spore, EA, or any of its subsidiaries or affiliates.
+This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected to Spore, EA, Maxis, or any of its subsidiaries or affiliates.
